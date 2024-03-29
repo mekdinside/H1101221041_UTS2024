@@ -35,7 +35,7 @@
                 <div class="card-header p-2">
                     <div class="d-flex justify-content-between">
                         <div class="input-group">
-                            <input type="text" class="form-control" placeholder="Tambah jabatan">
+                            <input type="text" class="form-control" placeholder="Tambah pegawai">
                         </div>
                         <div class="p-2">
                             <input type="button" value="Tambah" class="btn btn-primary">
